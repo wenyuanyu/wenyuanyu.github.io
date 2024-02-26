@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://wenyuanyu.github.io/sitemap.xml
+Sitemap: https://wyu.io/sitemap.xml
