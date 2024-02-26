@@ -2,25 +2,21 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://github.com/alibaba/'>Alibaba Group</a>. 
+subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+#  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>38F Radiance Building</p>
-    <p>Chaoyang</p>
-    <p>Beijing, China</p>
-
+  more_info:
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am Wenyuan Yu, a Senior Staff Engineer and Director [Alibaba Group](https://www.alibabagroup.com/), and a Ph.D. graduate from the [University of Edinburgh](https://www.ed.ac.uk/informatics/). As the leader of the Fusion Computing team at [Institute for Intelligent Computing](https://tongyi.aliyun.com/), I spearhead our initiatives in machine learning systems and graph computing. I am also the founder and project lead for Alibaba's open-source large-scale graph computing system, [GraphScope](https://github.com/alibaba/GraphScope), and the CNCF's data sharing system, [Vineyard](https://github.com/v6d-io/v6d).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research has been published in several top-tier international conferences and journals, contributing significantly to the fields of data and graph management. I have had the honor of serving as a committee member and reviewer at these prestigious venues. My work has been recognized with awards, including Best Paper at SIGMOD 2017 and VLDB 2010, Best Demonstration at VLDB 2017, and the SIGMOD Research Highlight Award.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interests are primarily in machine learning systems, data quality management, graph data management and computation. Before joining Alibaba, I was a founding member of  7Bridges and a Research Scientist at Facebook. These roles have allowed me to contribute both to academic research and practical applications in system research.
