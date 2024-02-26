@@ -6,7 +6,7 @@ title: Wenyuan Yu # the website title (if blank, full name will be used instead)
 first_name: Wenyuan
 middle_name: 
 last_name: Yu
-email: wenyuan.ywy@alibaba-inc.com
+email: wenyuan@wyu.io
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Wenyuan Yu from Alibaba Group
 footer_text: >
@@ -88,7 +88,7 @@ work_url: # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
-dblp_url: # your DBLP profile url
+dblp_url: https://dblp.org/pid/53/5676.html # your DBLP profile url
 stackoverflow_id: # your stackoverflow id
 kaggle_id: # your kaggle id
 lastfm_id: # your lastfm id
